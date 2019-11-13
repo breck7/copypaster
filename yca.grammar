@@ -1,0 +1,261 @@
+ycaNode
+ root
+ inScope abstractQuestionNode
+keywordCell
+ highlightScope keyword
+anyCell
+bitCell
+intCell
+boolCell
+abstractQuestionNode
+ abstract
+nameNode
+ extends abstractQuestionNode
+ crux name
+ cells keywordCell anyCell
+urlNode
+ extends abstractQuestionNode
+ crux url
+ cells keywordCell anyCell
+demoNode
+ extends abstractQuestionNode
+ crux demo
+ cells keywordCell anyCell
+describeNode
+ extends abstractQuestionNode
+ crux describe
+ cells keywordCell
+ catchAllCellType anyCell
+makeNode
+ extends abstractQuestionNode
+ crux make
+ cells keywordCell
+ catchAllCellType anyCell
+whereNode
+ extends abstractQuestionNode
+ crux where
+ cells keywordCell anyCell
+emailNode
+ extends abstractQuestionNode
+ crux email
+ cells keywordCell anyCell
+phoneNode
+ extends abstractQuestionNode
+ crux phone
+ cells keywordCell
+videoNode
+ extends abstractQuestionNode
+ crux video
+ cells keywordCell
+builtNode
+ extends abstractQuestionNode
+ crux built
+ cells keywordCell
+meetNode
+ extends abstractQuestionNode
+ crux meet
+ cells keywordCell
+num_95foundersNode
+ extends abstractQuestionNode
+ crux num_founders
+ cells keywordCell bitCell
+categoryNode
+ extends abstractQuestionNode
+ crux category
+ cells keywordCell anyCell anyCell
+next_95stagesNode
+ extends abstractQuestionNode
+ crux next_stages
+ cells keywordCell
+by_95ddNode
+ extends abstractQuestionNode
+ crux by_dd
+ cells keywordCell
+fdaNode
+ extends abstractQuestionNode
+ crux fda
+ cells keywordCell
+scienceNode
+ extends abstractQuestionNode
+ crux science
+ cells keywordCell
+exp_95dataNode
+ extends abstractQuestionNode
+ crux exp_data
+ cells keywordCell
+academicNode
+ extends abstractQuestionNode
+ crux academic
+ cells keywordCell
+exfactoryNode
+ extends abstractQuestionNode
+ crux exfactory
+ cells keywordCell
+off_95shelfNode
+ extends abstractQuestionNode
+ crux off_shelf
+ cells keywordCell
+howfarNode
+ extends abstractQuestionNode
+ crux howfar
+ cells keywordCell anyCell
+workedNode
+ extends abstractQuestionNode
+ crux worked
+ cells keywordCell intCell
+ catchAllCellType anyCell
+stageNode
+ extends abstractQuestionNode
+ crux stage
+ cells keywordCell bitCell
+whenbetaNode
+ extends abstractQuestionNode
+ crux whenbeta
+ cells keywordCell anyCell
+usernumsNode
+ extends abstractQuestionNode
+ crux usernums
+ cells keywordCell
+revenueNode
+ extends abstractQuestionNode
+ crux revenue
+ cells keywordCell boolCell
+howmuch1Node
+ extends abstractQuestionNode
+ crux howmuch1
+ cells keywordCell
+howmuch2Node
+ extends abstractQuestionNode
+ crux howmuch2
+ cells keywordCell
+howmuch3Node
+ extends abstractQuestionNode
+ crux howmuch3
+ cells keywordCell
+howmuch4Node
+ extends abstractQuestionNode
+ crux howmuch4
+ cells keywordCell
+howmuch5Node
+ extends abstractQuestionNode
+ crux howmuch5
+ cells keywordCell
+howmuch6Node
+ extends abstractQuestionNode
+ crux howmuch6
+ cells keywordCell
+growthrateNode
+ extends abstractQuestionNode
+ crux growthrate
+ cells keywordCell
+sinceNode
+ extends abstractQuestionNode
+ crux since
+ cells keywordCell boolCell
+accNode
+ extends abstractQuestionNode
+ crux acc
+ cells keywordCell
+expNode
+ extends abstractQuestionNode
+ crux exp
+ cells keywordCell
+ catchAllCellType anyCell
+newNode
+ extends abstractQuestionNode
+ crux new
+ cells keywordCell
+ catchAllCellType anyCell
+competNode
+ extends abstractQuestionNode
+ crux compet
+ cells keywordCell
+ catchAllCellType anyCell
+getNode
+ extends abstractQuestionNode
+ crux get
+ cells keywordCell
+ catchAllCellType anyCell
+moneyNode
+ extends abstractQuestionNode
+ crux money
+ cells keywordCell
+ catchAllCellType anyCell
+distroNode
+ extends abstractQuestionNode
+ crux distro
+ cells keywordCell
+ catchAllCellType anyCell
+incyetNode
+ extends abstractQuestionNode
+ crux incyet
+ cells keywordCell boolCell
+inctypeNode
+ extends abstractQuestionNode
+ crux inctype
+ cells keywordCell
+incpercentNode
+ extends abstractQuestionNode
+ crux incpercent
+ cells keywordCell
+investyetNode
+ extends abstractQuestionNode
+ crux investyet
+ cells keywordCell boolCell
+incinvestNode
+ extends abstractQuestionNode
+ crux incinvest
+ cells keywordCell
+burnNode
+ extends abstractQuestionNode
+ crux burn
+ cells keywordCell
+bankNode
+ extends abstractQuestionNode
+ crux bank
+ cells keywordCell
+runwayNode
+ extends abstractQuestionNode
+ crux runway
+ cells keywordCell
+percent2Node
+ extends abstractQuestionNode
+ crux percent2
+ cells keywordCell
+ catchAllCellType anyCell
+incelseNode
+ extends abstractQuestionNode
+ crux incelse
+ cells keywordCell
+ catchAllCellType anyCell
+ip2Node
+ extends abstractQuestionNode
+ crux ip2
+ cells keywordCell
+ catchAllCellType anyCell
+others2Node
+ extends abstractQuestionNode
+ crux others2
+ cells keywordCell anyCell
+materialNode
+ extends abstractQuestionNode
+ crux material
+ cells keywordCell
+ideasNode
+ extends abstractQuestionNode
+ crux ideas
+ cells keywordCell anyCell
+amuseNode
+ extends abstractQuestionNode
+ crux amuse
+ cells keywordCell
+ catchAllCellType anyCell
+whyapplyNode
+ extends abstractQuestionNode
+ crux whyapply
+ cells keywordCell
+ catchAllCellType anyCell
+howhearNode
+ extends abstractQuestionNode
+ crux howhear
+ cells keywordCell anyCell
