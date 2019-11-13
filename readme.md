@@ -14,7 +14,7 @@ In 2020 let's start making all web forms copy/pasteable. This will allow for muc
 
 ## Future Work
 
-If you like this idea, star this repo. There is still a LOT of work to make this work well. Ideally we can get the Browser vendors involved in making this a standard web behavior.
+If you like this idea, [star this repo](https://github.com/treenotation/copypaster). There is still a LOT of work to make this work well. Ideally we can get the Browser vendors involved in making this a standard web behavior.
 
 ## Public Domain
 
