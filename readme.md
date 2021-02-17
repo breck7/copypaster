@@ -27,6 +27,8 @@ editing a spreadsheet**. So all web forms can be a web
 form AND a single copy/pasteable Tree Notation document AND
 a spreadsheet!
 
+![Demo](formsAreNowSpreadsheets.gif)
+
 
 ## Future Work
 
