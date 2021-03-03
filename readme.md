@@ -33,12 +33,10 @@ a spreadsheet!
 ## Future Work
 
 If you like this idea, [star this repo]
-(https://github.com/treenotation/copypaster). You can
+(https://github.com/publicdomaincompany/copypaster). You can
 implement this idea yourself on your own site!
 
 Need help? Just reach out here or in the Tree Notation
 subreddit https://www.reddit.com/r/treenotation/
 
-## Public Domain
-
-CopyPaster is public domain. Duh.
+❤️❤️❤️ Public Domain ❤️❤️❤️
