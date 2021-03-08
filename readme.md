@@ -32,9 +32,10 @@ a spreadsheet!
 
 ## Future Work
 
-If you like this idea, [star this repo]
-(https://github.com/publicdomaincompany/copypaster). You can
-implement this idea yourself on your own site!
+If you like this idea, [star this repo]. You can implement this
+idea yourself on your own site!
+
+[star this repo]: https://github.com/publicdomaincompany/copypaster
 
 Need help? Just reach out here or in the Tree Notation
 subreddit https://www.reddit.com/r/treenotation/
