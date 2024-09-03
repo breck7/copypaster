@@ -1,3 +1,6 @@
+# Update 9/2/2024: CopyPaster functionality IS FINALLY COMING TO FRUITION! It will be in Scroll very shortly.
+Here's the place to track it: https://github.com/breck7/scroll/issues/133
+
 # CopyPaster
 
 In 2021 let's start making all web forms copy/pasteable.
